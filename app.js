@@ -11,7 +11,7 @@ const ALBUMS = [
         title: '808s & Heartbreak',
         year: '2008',
         status: 'official',
-        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/808s.jpg',
+        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/808s.jpg?raw=true',
         tracks: [
             { id: '808-1', title: "Say You Will", duration: "6:15", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-01.mp3" },
             { id: '808-2', title: "Welcome To Heartbreak", duration: "4:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-02.mp3" },

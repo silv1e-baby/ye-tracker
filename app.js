@@ -13,18 +13,18 @@ const ALBUMS = [
         status: 'official',
         cover: 'https://placehold.co/400x400/1a1a1a/FFF?text=808s', // Replace with real art
         tracks: [
-            { id: '808-1', title: "Say You Will", duration: "6:15", src: "" },
-            { id: '808-2', title: "Welcome To Heartbreak", duration: "4:23", src: "" },
-            { id: '808-3', title: "Heartless", duration: "3:31", src: "" },
-            { id: '808-4', title: "Amazing", duration: "3:58", src: "" },
-            { id: '808-5', title: "Love Lockdown", duration: "4:30", src: "" },
-            { id: '808-6', title: "Paranoid", duration: "4:23", src: "" },
-            { id: '808-7', title: "RoboCop", duration: "4:34", src: "" },
-            { id: '808-8', title: "Street Lights", duration: "3:10", src: "" },
-            { id: '808-9', title: "Bad News", duration: "3:59", src: "" },
-            { id: '808-10', title: "See You In My Nightmares", duration: "4:18", src: "" },
-            { id: '808-11', title: "Coldest Winter", duration: "2:45", src: "" },
-            { id: '808-12', title: "Pinocchio Story", duration: "6:04", src: "" }
+            { id: '808-1', title: "Say You Will", duration: "6:15", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-01.mp3" },
+            { id: '808-2', title: "Welcome To Heartbreak", duration: "4:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-02.mp3" },
+            { id: '808-3', title: "Heartless", duration: "3:31", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-03.mp3" },
+            { id: '808-4', title: "Amazing", duration: "3:58", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-04.mp3" },
+            { id: '808-5', title: "Love Lockdown", duration: "4:30", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-05.mp3" },
+            { id: '808-6', title: "Paranoid", duration: "4:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-06.mp3" },
+            { id: '808-7', title: "RoboCop", duration: "4:34", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-07.mp3" },
+            { id: '808-8', title: "Street Lights", duration: "3:10", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-08.mp3" },
+            { id: '808-9', title: "Bad News", duration: "3:59", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-09.mp3" },
+            { id: '808-10', title: "See You In My Nightmares", duration: "4:18", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-10.mp3" },
+            { id: '808-11', title: "Coldest Winter", duration: "2:45", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-11.mp3" },
+            { id: '808-12', title: "Pinocchio Story", duration: "6:04", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-12.mp3" }
         ]
     },
     {

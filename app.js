@@ -26,7 +26,7 @@ const ALBUMS = [
             { id: 'grad-11', title: "The Glory", duration: "3:34", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-11.mp3" },
             { id: 'grad-12', title: "Homecoming", duration: "3:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-12.mp3" },
             { id: 'grad-13', title: "Big Brother", duration: "4:47", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-13.mp3" },
-            { id: 'grad-14', title: "Good Night", duration: "3:06", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-14.mp3" }
+            { id: 'grad-14', title: "Good Night", duration: "3:06", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-14.mp3" },
             { id: 'grad-15', title: "Bittersweet Poetry", duration: "4:02", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-15.mp3" }
         ]
     },

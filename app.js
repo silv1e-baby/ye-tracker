@@ -134,6 +134,31 @@ const ALBUMS = [
         ]
     },
     {
+        id: 'wtt',
+        title: 'Watch the Throne',
+        year: '2011',
+        status: 'released',
+        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/wtt.jpg?raw=true',
+        tracks: [
+            { id: 'wtt-1', title: "No Church in the Wild", duration: "4:32", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-01.mp3" },
+            { id: 'wtt-2', title: "Lift Off", duration: "4:35", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-02.mp3" },
+            { id: 'wtt-3', title: "Fellaz in Paris", duration: "3:39", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-03.mp3" },
+            { id: 'wtt-4', title: "Otis", duration: "2:58", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-04.mp3" },
+            { id: 'wtt-5', title: "Gotta Have It", duration: "2:20", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-05.mp3" },
+            { id: 'wtt-6', title: "New Day", duration: "4:32", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-06.mp3" },
+            { id: 'wtt-7', title: "That's My Bitch", duration: "3:22", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-07.mp3" },
+            { id: 'wtt-8', title: "Welcome to the Jungle", duration: "2:53", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-08.mp3" },
+            { id: 'wtt-9', title: "Who Gon Stop Me", duration: "4:16", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-09.mp3" },
+            { id: 'wtt-10', title: "Murder to Excellence", duration: "5:00", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-10.mp3" },
+            { id: 'wtt-11', title: "Made in America", duration: "4:52", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-11.mp3" },
+            { id: 'wtt-12', title: "Why I Love You", duration: "3:21", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-12.mp3" },
+            { id: 'wtt-13', title: "Illest Motherfucker Alive", duration: "5:25", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-13.mp3" },
+            { id: 'wtt-14', title: "H•A•M", duration: "4:35", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-14.mp3" },
+            { id: 'wtt-15', title: "Primetime", duration: "3:19", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-15.mp3" },
+            { id: 'wtt-16', title: "The Joy", duration: "5:17", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/wtt/WTT-16.mp3" }
+        ]
+    },
+    {
         id: 'yeezus',
         title: 'Yeezus',
         year: '2013',
@@ -150,6 +175,35 @@ const ALBUMS = [
             { id: 'yeezus-8', title: "Guilt Trip", duration: "4:03", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-08.mp3" },
             { id: 'yeezus-9', title: "Send It Up", duration: "2:58", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-09.mp3" },
             { id: 'yeezus-10', title: "Bound 2", duration: "3:49", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-10.mp3" }
+        ]
+    },
+    {
+        id: 'tlop',
+        title: 'The Life of Pablo',
+        year: '2016',
+        status: 'released',
+        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/tlop.png?raw=true',
+        tracks: [
+            { id: 'tlop-1', title: "Ultralight Beam", duration: "5:20", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-01.mp3" },
+            { id: 'tlop-2', title: "Father Stretch My Hands Pt. 1", duration: "2:15", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-02.mp3" },
+            { id: 'tlop-3', title: "Pt. 2", duration: "2:10", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-03.mp3" },
+            { id: 'tlop-4', title: "Famous", duration: "3:16", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-04.mp3" },
+            { id: 'tlop-5', title: "Feedback", duration: "2:19", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-05.mp3" },
+            { id: 'tlop-6', title: "Low Lights", duration: "2:11", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-06.mp3" },
+            { id: 'tlop-7', title: "Highlights", duration: "3:19", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-07.mp3" },
+            { id: 'tlop-8', title: "Freestyle 4", duration: "2:03", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-08.mp3" },
+            { id: 'tlop-9', title: "I Love Kanye", duration: "2:36", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-09.mp3" },
+            { id: 'tlop-10', title: "Waves", duration: "3:01", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-10.mp3" },
+            { id: 'tlop-11', title: "FML", duration: "3:56", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-11.mp3" },
+            { id: 'tlop-12', title: "Real Friends", duration: "4:11", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-12.mp3" },
+            { id: 'tlop-13', title: "Wolves", duration: "6:05", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-13.mp3" },
+            { id: 'tlop-14', title: "Frank's Track", duration: "0:38", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-14.mp3" },
+            { id: 'tlop-15', title: "Siiiiiiiiilver Surfffffer", duration: "1:16", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-15.mp3" },
+            { id: 'tlop-16', title: "30 Hours", duration: "5:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-16.mp3" },
+            { id: 'tlop-17', title: "No More Parties in LA", duration: "6:14", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-17.mp3" },
+            { id: 'tlop-18', title: "Facts (Charlie Heat Version)", duration: "3:17", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-18.mp3" },
+            { id: 'tlop-19', title: "Fade", duration: "3:13", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-19.mp3" },
+            { id: 'tlop-20', title: "Saint Pablo", duration: "6:12", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/tlop/TLOP-20.mp3" },
         ]
     },
     {

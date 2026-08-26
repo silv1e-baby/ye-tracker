@@ -213,13 +213,13 @@ const ALBUMS = [
         status: 'released',
         cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/ye.jpg?raw=true',
         tracks: [
-            { id: 'ye-1', title: "I Thought About Killing You", duration: "4:34", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ye/YE-01.mp3" },
-            { id: 'ye-2', title: "Yikes", duration: "3:08", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ye/YE-02.mp3" },
-            { id: 'ye-3', title: "All Mine", duration: "2:25", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ye/YE-03.mp3" },
-            { id: 'ye-4', title: "Wouldn't Leave", duration: "3:25", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ye/YE-04.mp3" },
-            { id: 'ye-5', title: "No Mistakes", duration: "2:03", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ye/YE-05.mp3" },
-            { id: 'ye-6', title: "Ghost Town", duration: "4:31", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ye/YE-06.mp3" },
-            { id: 'ye-7', title: "Violent Crimes", duration: "3:35", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ye/YE-07.mp3" }
+            { id: 'ye-1', title: "I Thought About Killing You", duration: "4:34", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ye/YE-01.mp3" },
+            { id: 'ye-2', title: "Yikes", duration: "3:08", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ye/YE-02.mp3" },
+            { id: 'ye-3', title: "All Mine", duration: "2:25", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ye/YE-03.mp3" },
+            { id: 'ye-4', title: "Wouldn't Leave", duration: "3:25", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ye/YE-04.mp3" },
+            { id: 'ye-5', title: "No Mistakes", duration: "2:03", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ye/YE-05.mp3" },
+            { id: 'ye-6', title: "Ghost Town", duration: "4:31", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ye/YE-06.mp3" },
+            { id: 'ye-7', title: "Violent Crimes", duration: "3:35", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ye/YE-07.mp3" }
         ]
     },
         {
@@ -229,13 +229,13 @@ const ALBUMS = [
         status: 'released',
         cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/ksg.jpg?raw=true',
         tracks: [
-            { id: 'ksg-1', title: "Feel the Love", duration: "2:45", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ksg/KSG-01.mp3" },
-            { id: 'ksg-2', title: "Fire", duration: "2:20", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ksg/KSG-02.mp3" },
-            { id: 'ksg-3', title: "4th Dimension", duration: "2:33", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ksg/KSG-03.mp3" },
-            { id: 'ksg-4', title: "Freeee (Ghost Town, Pt. 2)", duration: "3:26", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ksg/KSG-04.mp3" },
-            { id: 'ksg-5', title: "Reborn", duration: "5:24", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ksg/KSG-05.mp3" },
-            { id: 'ksg-6', title: "Kids See Ghosts", duration: "4:04", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ksg/KSG-06.mp3" },
-            { id: 'ksg-7', title: "Cudi Montage", duration: "3:18", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/ksg/KSG-07.mp3" }
+            { id: 'ksg-1', title: "Feel the Love", duration: "2:45", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ksg/KSG-01.mp3" },
+            { id: 'ksg-2', title: "Fire", duration: "2:20", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ksg/KSG-02.mp3" },
+            { id: 'ksg-3', title: "4th Dimension", duration: "2:33", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ksg/KSG-03.mp3" },
+            { id: 'ksg-4', title: "Freeee (Ghost Town, Pt. 2)", duration: "3:26", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ksg/KSG-04.mp3" },
+            { id: 'ksg-5', title: "Reborn", duration: "5:24", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ksg/KSG-05.mp3" },
+            { id: 'ksg-6', title: "Kids See Ghosts", duration: "4:04", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ksg/KSG-06.mp3" },
+            { id: 'ksg-7', title: "Cudi Montage", duration: "3:18", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/ksg/KSG-07.mp3" }
         ]
     },
     {
@@ -245,17 +245,17 @@ const ALBUMS = [
         status: 'released',
         cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/jik.png?raw=true',
         tracks: [
-            { id: 'jik-1', title: "Every Hour", duration: "1:52", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-01.mp3" },
-            { id: 'jik-2', title: "Selah", duration: "2:45", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-02.mp3" },
-            { id: 'jik-3', title: "Follow God", duration: "1:45", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-03.mp3" },
-            { id: 'jik-4', title: "Closed on Sunday", duration: "2:31", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-04.mp3" },
-            { id: 'jik-5', title: "On God", duration: "2:16", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-05.mp3" },
-            { id: 'jik-6', title: "Everything We Need", duration: "1:56", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-06.mp3" },
-            { id: 'jik-7', title: "Water", duration: "2:48", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-07.mp3" },
-            { id: 'jik-8', title: "God Is", duration: "3:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-08.mp3" },
-            { id: 'jik-9', title: "Hands On", duration: "3:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-09.mp3" },
-            { id: 'jik-10', title: "Use This Gospel", duration: "3:33", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-10.mp3" },
-            { id: 'jik-11', title: "Jesus Is Lord", duration: "0:49", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/JIK-11.mp3" }
+            { id: 'jik-1', title: "Every Hour", duration: "1:52", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/jik/JIK-01.mp3" },
+            { id: 'jik-2', title: "Selah", duration: "2:45", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/jik/JIK-02.mp3" },
+            { id: 'jik-3', title: "Follow God", duration: "1:45", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/jik/JIK-03.mp3" },
+            { id: 'jik-4', title: "Closed on Sunday", duration: "2:31", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/jik/JIK-04.mp3" },
+            { id: 'jik-5', title: "On God", duration: "2:16", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/jik/JIK-05.mp3" },
+            { id: 'jik-6', title: "Everything We Need", duration: "1:56", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/jik/JIK-06.mp3" },
+            { id: 'jik-7', title: "Water", duration: "2:48", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/jik/JIK-07.mp3" },
+            { id: 'jik-8', title: "God Is", duration: "3:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/jik/JIK-08.mp3" },
+            { id: 'jik-9', title: "Hands On", duration: "3:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/jik/JIK-09.mp3" },
+            { id: 'jik-10', title: "Use This Gospel", duration: "3:33", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/jik/albums/JIK-10.mp3" },
+            { id: 'jik-11', title: "Jesus Is Lord", duration: "0:49", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/jik/JIK-11.mp3" }
         ]
     },
     {

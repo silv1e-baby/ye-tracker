@@ -7,6 +7,30 @@
 // ==========================================
 const ALBUMS = [
     {
+        id: 'graduation',
+        title: 'Graduation',
+        year: '2007',
+        status: 'released',
+        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/grad.png?raw=true',
+        tracks: [
+            { id: 'grad-1', title: "Good Morning", duration: "3:15", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-01.mp3" },
+            { id: 'grad-2', title: "Champion", duration: "2:48", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-02.mp3" },
+            { id: 'grad-3', title: "Stronger", duration: "5:12", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-03.mp3" },
+            { id: 'grad-4', title: "I Wonder", duration: "4:03", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-04.mp3" },
+            { id: 'grad-5', title: "Good Life", duration: "3:27", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-05.mp3" },
+            { id: 'grad-6', title: "Can't Tell Me Nothing", duration: "4:31", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-06.mp3" },
+            { id: 'grad-7', title: "Barry Bonds", duration: "3:24", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-07.mp3" },
+            { id: 'grad-8', title: "Drunk and Hot Girls", duration: "5:13", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-08.mp3" },
+            { id: 'grad-9', title: "Flashing Lights", duration: "3:57", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-09.mp3" },
+            { id: 'grad-10', title: "Everything I Am", duration: "3:47", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-10.mp3" },
+            { id: 'grad-11', title: "The Glory", duration: "3:34", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-11.mp3" },
+            { id: 'grad-12', title: "Homecoming", duration: "3:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-12.mp3" },
+            { id: 'grad-13', title: "Big Brother", duration: "4:47", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-13.mp3" },
+            { id: 'grad-14', title: "Good Night", duration: "3:06", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-14.mp3" }
+            { id: 'grad-15', title: "Bittersweet Poetry", duration: "4:02", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/graduation/GRADUATION-15.mp3" }
+        ]
+    },
+    {
         id: '808s',
         title: '808s & Heartbreak',
         year: '2008',
@@ -18,9 +42,9 @@ const ALBUMS = [
             { id: '808-3', title: "Heartless", duration: "3:31", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-03.mp3" },
             { id: '808-4', title: "Amazing", duration: "3:58", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-04.mp3" },
             { id: '808-5', title: "Love Lockdown", duration: "4:30", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-05.mp3" },
-            { id: '808-6', title: "Paranoid", duration: "4:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-06.mp3" },
+            { id: '808-6', title: "Paranoid", duration: "4:37", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-06.mp3" },
             { id: '808-7', title: "RoboCop", duration: "4:34", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-07.mp3" },
-            { id: '808-8', title: "Street Lights", duration: "3:10", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-08.mp3" },
+            { id: '808-8', title: "Street Lights", duration: "3:09", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-08.mp3" },
             { id: '808-9', title: "Bad News", duration: "3:59", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-09.mp3" },
             { id: '808-10', title: "See You In My Nightmares", duration: "4:18", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-10.mp3" },
             { id: '808-11', title: "Coldest Winter", duration: "2:45", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-11.mp3" },

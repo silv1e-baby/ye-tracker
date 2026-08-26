@@ -10,8 +10,8 @@ const ALBUMS = [
         id: '808s',
         title: '808s & Heartbreak',
         year: '2008',
-        status: 'official',
-        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/808s.jpg?raw=true',
+        status: 'released',
+        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/808s.png?raw=true',
         tracks: [
             { id: '808-1', title: "Say You Will", duration: "6:15", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-01.mp3" },
             { id: '808-2', title: "Welcome To Heartbreak", duration: "4:23", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/808s/808-02.mp3" },
@@ -31,13 +31,41 @@ const ALBUMS = [
         id: 'mbdtf',
         title: 'My Beautiful Dark Twisted Fantasy',
         year: '2010',
-        status: 'official',
-        cover: 'https://placehold.co/400x400/8b0000/FFF?text=MBDTF',
+        status: 'released',
+        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/mbdtf.jpg?raw=true',
         tracks: [
-            { id: 'mbdtf-1', title: "Dark Fantasy", duration: "4:40", src: "https://www.soundhelix.com/data/mp3/SoundHelix-Song-5.mp3" },
-            { id: 'mbdtf-2', title: "Gorgeous", duration: "5:57", src: "https://www.soundhelix.com/data/mp3/SoundHelix-Song-6.mp3" },
-            { id: 'mbdtf-3', title: "POWER", duration: "4:52", src: "https://www.soundhelix.com/data/mp3/SoundHelix-Song-7.mp3" },
-            { id: 'mbdtf-4', title: "Runaway", duration: "9:00", src: "https://www.soundhelix.com/data/mp3/SoundHelix-Song-8.mp3" }
+        { id: 'mbdtf-1', title: "Dark Fantasy", duration: "4:41", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-01.mp3" },
+        { id: 'mbdtf-2', title: "Gorgeous", duration: "5:58", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-02.mp3" },
+        { id: 'mbdtf-3', title: "POWER", duration: "4:52", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-03.mp3" },
+        { id: 'mbdtf-4', title: "All Of The Lights (Interlude)", duration: "1:02", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-04.mp3" },
+        { id: 'mbdtf-5', title: "All Of The Lights", duration: "5:00", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-05.mp3" },
+        { id: 'mbdtf-6', title: "Monster", duration: "6:19", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-06.mp3" },
+        { id: 'mbdtf-7', title: "So Appalled", duration: "6:38", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-07.mp3" },
+        { id: 'mbdtf-8', title: "Devil In A New Dress", duration: "5:52", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-08.mp3" },
+        { id: 'mbdtf-9', title: "Runaway", duration: "9:08", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-09.mp3" },
+        { id: 'mbdtf-10', title: "Hell Of A Life", duration: "5:28", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-10.mp3" },
+        { id: 'mbdtf-11', title: "Blame Game", duration: "7:50", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-11.mp3" },
+        { id: 'mbdtf-12', title: "Lost In The World", duration: "4:17", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-12.mp3" },    
+        { id: 'mbdtf-13', title: "Who Will Survive In America", duration: "1:38", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/mbdtf/MBDTF-13.mp3" },    
+        ]
+    },
+    {
+        id: 'yeezus',
+        title: 'Yeezus',
+        year: '2013',
+        status: 'released',
+        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/yeezus.jpg?raw=true',
+        tracks: [
+            { id: 'yeezus-1', title: "On Sight", duration: "2:36", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-01.mp3" },
+            { id: 'yeezus-2', title: "Black Skinhead", duration: "3:08", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-02.mp3" },
+            { id: 'yeezus-3', title: "I Am A God", duration: "3:51", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-03.mp3" },
+            { id: 'yeezus-4', title: "New Slaves", duration: "4:16", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-04.mp3" },
+            { id: 'yeezus-5', title: "Hold My Liquor", duration: "5:26", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-05.mp3" },
+            { id: 'yeezus-6', title: "I'm In It", duration: "3:54", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-06.mp3" },
+            { id: 'yeezus-7', title: "Blood On The Leaves", duration: "4:09", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-07.mp3" },
+            { id: 'yeezus-8', title: "Guilt Trip", duration: "4:03", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-08.mp3" },
+            { id: 'yeezus-9', title: "Send It Up", duration: "2:58", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-09.mp3" },
+            { id: 'yeezus-10', title: "Bound 2", duration: "3:49", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/yeezus/YEEZUS-10.mp3" }
         ]
     },
     {

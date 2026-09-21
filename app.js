@@ -112,6 +112,31 @@ const ALBUMS = [
         ]
     },
     {
+        id: 'good-ass-job',
+        title: 'Good Ass Job',
+        year: '2009',
+        status: 'unreleased',
+        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/good-ass-job.jpg?raw=true',
+        tracks: [
+            { id: 'gaj-1', title: "Downtown", duration: "3:31", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-01.mp3" },
+            { id: 'gaj-2', title: "Crazy Life", duration: "4:49", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-02.mp3" },
+            { id: 'gaj-3', title: "Ain't No Tellin'", duration: "3:33", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-03.mp3" },
+            { id: 'gaj-4', title: "Hornz", duration: "3:16", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-04.mp3" },
+            { id: 'gaj-5', title: "That's My Bitch", duration: "3:28", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-05.mp3" },
+            { id: 'gaj-6', title: "Hood Bitch", duration: "3:06", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-06.mp3" },
+            { id: 'gaj-7', title: "Dance At Night", duration: "2:05", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-07.mp3" },
+            { id: 'gaj-8', title: "Make That Money", duration: "2:44", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-08.mp3" },
+            { id: 'gaj-9', title: "Throw Money Everywhere", duration: "5:29", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-09.mp3" },
+            { id: 'gaj-10', title: "I'll Be Alright", duration: "4:20", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-10.mp3" },
+            { id: 'gaj-11', title: "Lonely", duration: "2:40", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-11.mp3" },
+            { id: 'gaj-12', title: "Supernova", duration: "2:34", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-12.mp3" },
+            { id: 'gaj-13', title: "SingSing", duration: "4:41", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-13.mp3" },
+            { id: 'gaj-14', title: "Flashing Lights 2 [Bonus]", duration: "2:48", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-14.mp3" },
+            { id: 'gaj-15', title: "Mama's Boy [Bonus]", duration: "3:34", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-15.mp3" },
+            { id: 'gaj-16', title: "Day By Day [Bonus]", duration: "2:07", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/good-ass-job/GAJ-16.mp3" }
+        ]
+    },
+    {
         id: 'mbdtf',
         title: 'My Beautiful Dark Twisted Fantasy',
         year: '2010',

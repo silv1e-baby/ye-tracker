@@ -379,7 +379,7 @@ const ALBUMS = [
         title: 'Bully (Deluxe)',
         year: '2026',
         status: 'released',
-        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/bully.jpg?raw=true',
+        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/bully.png?raw=true',
         tracks: [
             { id: 'bully-1', title: "King", duration: "2:06", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-01.mp3" },
             { id: 'bully-2', title: "This a Must", duration: "1:26", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-02.mp3" },

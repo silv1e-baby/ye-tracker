@@ -427,18 +427,6 @@ const ALBUMS = [
             { id: 'bully-19', title: "OK", duration: "2:38", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-19.mp3" },
             { id: 'bully-20', title: "Mission Control", duration: "1:52", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-20.mp3" }
         ]
-    },
-    {
-        id: 'yandhi',
-        title: 'YANDHI',
-        year: 'Unreleased',
-        status: 'unreleased',
-        cover: 'https://placehold.co/400x400/ff3b30/FFF?text=YANDHI',
-        tracks: [
-            { id: 'yan-1', title: "Wolves In The Streets", duration: "3:45", src: "https://www.soundhelix.com/data/mp3/SoundHelix-Song-1.mp3" },
-            { id: 'yan-2', title: "Brothers (OG)", duration: "4:20", src: "https://www.soundhelix.com/data/mp3/SoundHelix-Song-2.mp3" },
-            { id: 'yan-3', title: "New Body", duration: "3:30", src: "https://www.soundhelix.com/data/mp3/SoundHelix-Song-3.mp3" }
-        ]
     }
 ];
 

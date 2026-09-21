@@ -375,6 +375,35 @@ const ALBUMS = [
         ]
     },
     {
+        id: 'bully-deluxe',
+        title: 'Bully (Deluxe)',
+        year: '2026',
+        status: 'released',
+        cover: 'https://github.com/silv1e-baby/ye-tracker/blob/main/assets/covers/bully.jpg?raw=true',
+        tracks: [
+            { id: 'bully-1', title: "King", duration: "2:06", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-01.mp3" },
+            { id: 'bully-2', title: "This a Must", duration: "1:26", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-02.mp3" },
+            { id: 'bully-3', title: "Father", duration: "2:49", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-03.mp3" },
+            { id: 'bully-4', title: "All the Love", duration: "3:49", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-04.mp3" },
+            { id: 'bully-5', title: "Punch Drunk", duration: "1:48", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-05.mp3" },
+            { id: 'bully-6', title: "Whatever Works", duration: "1:57", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-06.mp3" },
+            { id: 'bully-7', title: "Mama's Favorite", duration: "2:34", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-07.mp3" },
+            { id: 'bully-8', title: "Sisters and Brothers", duration: "2:45", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-08.mp3" },
+            { id: 'bully-9', title: "Bully", duration: "2:27", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-09.mp3" },
+            { id: 'bully-10', title: "Highs and Lows", duration: "1:51", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-10.mp3" },
+            { id: 'bully-11', title: "I Can't Wait", duration: "2:17", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-11.mp3" },
+            { id: 'bully-12', title: "White Lines", duration: "2:10", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-12.mp3" },
+            { id: 'bully-13', title: "Circles", duration: "1:31", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-13.mp3" },
+            { id: 'bully-14', title: "Preacher Man", duration: "3:01", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-14.mp3" },
+            { id: 'bully-15', title: "Beauty and the Beast", duration: "1:47", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-15.mp3" },
+            { id: 'bully-16', title: "Damn", duration: "2:03", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-16.mp3" },
+            { id: 'bully-17', title: "Last Breath", duration: "2:57", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-17.mp3" },
+            { id: 'bully-18', title: "This One Here", duration: "3:00", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-18.mp3" },
+            { id: 'bully-19', title: "OK", duration: "2:38", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-19.mp3" },
+            { id: 'bully-20', title: "Mission Control", duration: "1:52", src: "https://github.com/silv1e-baby/ye-tracker/raw/refs/heads/main/assets/albums/bully/BULLY-20.mp3" }
+        ]
+    },
+    {
         id: 'yandhi',
         title: 'YANDHI',
         year: 'Unreleased',
